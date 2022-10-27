@@ -15,7 +15,7 @@ public class Main {
         int sum =0;
         for (int element : arr) {
             sum = element;
-            System.out.println("сумма трат за месяц " + sum);
+            System.out.println("сумма трат за месяц! " + sum);
         }
 
         // Задание 2
